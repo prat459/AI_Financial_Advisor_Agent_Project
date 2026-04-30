@@ -1,6 +1,6 @@
 ﻿# AI Financial Advisor Agent: Your Own Wall Street Trading Firm
 
-## An AI-powered financial advisor that simulates a trading firm with 13 specialized agents, providing institutional-level professional stock investment advice. It includes real-time stock data, spending analysis, and ethics checks, along with a function to save reports.##
+### An AI-powered financial advisor that simulates a trading firm with 13 specialized agents, providing institutional-level professional stock investment advice. It includes real-time stock data, spending analysis, and ethics checks, along with a function to save reports. ###
 ---
 
 ## Project Structure
